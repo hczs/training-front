@@ -1,8 +1,10 @@
-# {{ name }}
+### 职工业务培训网站前台项目
 
-> {{ description }}
+后端代码地址：https://github.com/hczs/training
 
-## Build Setup
+效果展示：http://81.70.19.46/
+
+### Build Setup
 
 ``` bash
 # install dependencies
