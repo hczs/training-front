@@ -1,0 +1,44 @@
+{
+  "name": "tarining-front",
+  "version": "1.0.0",
+  "description": "职工业务培训网站",
+  "author": "houcheng",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^4.0.0",
+    "axios": "^0.21.1",
+    "element-ui": "^2.15.1",
+    "js-cookie": "^2.2.1",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.0.0",
+    "tinymce": "^5.7.1",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-quill-editor": "^3.0.6"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^4.19.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "sass-loader": "^7.3.1",
+    "swiper": "^3.4.2",
+    "@tinymce/tinymce-vue": "^4.0.0",
+    "axios": "^0.21.1",
+    "element-ui": "^2.15.1",
+    "js-cookie": "^2.2.1",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.0.0",
+    "tinymce": "^5.7.1",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-quill-editor": "^3.0.6"
+  }
+}
